@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="IBTemplateVS8">
+</Property><Property Name="Archivo de la solución" Value="C:\Documents and Settings\Administrador\Escritorio\IBTemplateVS8\IBTemplateVS8.sln">
+</Property><Property Name="Archivo de opciones de usuario" Value="C:\Documents and Settings\Administrador\Escritorio\IBTemplateVS8\IBTemplateVS8.suo">
+</Property><Property Name="Date" Value="dilluns, 10 / març / 2014">
+</Property><Property Name="Time" Value="18:22">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="IBTemplateVS8.sln" Description="La copia C:\Documents and Settings\Administrador\Escritorio\IBTemplateVS8\IBTemplateVS8.sln.old del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="" Source="IBTemplateVS8.suo" Description="La copia C:\Documents and Settings\Administrador\Escritorio\IBTemplateVS8\IBTemplateVS8.suo.old del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="IBTemplateVS8" Source="IBTemplateVS8\IBTemplateVS8.vcproj" Description="Converting project file 'C:\Documents and Settings\Administrador\Escritorio\IBTemplateVS8\IBTemplateVS8\IBTemplateVS8.vcproj'.">
+</Event><Event ErrorLevel="1" Project="IBTemplateVS8" Source="IBTemplateVS8\IBTemplateVS8.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="IBTemplateVS8" Source="IBTemplateVS8\IBTemplateVS8.vcproj" Description="Done converting to new project file 'C:\Documents and Settings\Administrador\Escritorio\IBTemplateVS8\IBTemplateVS8\IBTemplateVS8.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="IBTemplateVS8" Source="IBTemplateVS8\IBTemplateVS8.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="IBTemplateVS8.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="IBTemplateVS8.sln" Description="Converted">
+</Event></UpgradeLog>
